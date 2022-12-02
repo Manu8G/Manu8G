@@ -1,4 +1,6 @@
 ### Hi there 👋
+These are my github stats, always on the rise, always motivated and eager to learn.
+
 
 [![Manu8G's github stats](https://github-readme-stats.vercel.app/api?username=manu8g&show_icons=true&title_color=3a6960&icon_color=3a6960&text_color=3a6960&bg_color=efefef&border_color=1f1f1f)](https://github.com/Manu8G)
 
