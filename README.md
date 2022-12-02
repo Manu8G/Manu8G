@@ -12,7 +12,7 @@ These are my github stats, always on the rise, always motivated and eager to lea
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-%23008080.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23FA0F00.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-<!--![C++](https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)&nbsp;-->
+![C++](https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)&nbsp;
 
 
 #### ML/DL
