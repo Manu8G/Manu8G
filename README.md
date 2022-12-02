@@ -30,6 +30,7 @@ These are my github stats, always on the rise, always motivated and eager to lea
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GIThub-E44C30?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Studio 3T](https://img.shields.io/badge/studio3t-%2311AB00.svg?style=for-the-badge&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/postman-FCC624?style=for-the-badge&logo=postman&logoColor=black)&nbsp;
 
 #### IDEs
 
