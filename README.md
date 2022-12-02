@@ -47,19 +47,6 @@ These is some more information about my work
 
 
 
-## Connect with me:
-
-<p align = "center">
-<!--[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/manugueme/)-->
-  
-  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/manugueme/)
-</p>
-<!--
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](URL DE LA PAGINA WEB)
--->
-
-
-
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=manu8g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manu8G's github stats" /></a> | <a href="https://github.com/manu8g/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu8g&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
