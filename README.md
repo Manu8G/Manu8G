@@ -3,6 +3,7 @@
 These are my github stats, always on the rise, always motivated and eager to learn.
 <!--
 <p align="center">
+<a></a>
   <a href="https://github.com/Manu8G"><img src="https://github-readme-stats.vercel.app/api?username=manu8g&hide_border=true&show_icons=true&text_color=4C71F1&bg_color=0000" alt="manu8g's github stats"></a>
 </p>
 
