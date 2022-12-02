@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">I'm <a href="https://github.com/Manu8G">Manuel Guerrero Mesías</a>!</h1>
 These are my github stats, always on the rise, always motivated and eager to learn.
 
@@ -11,9 +10,8 @@ These are my github stats, always on the rise, always motivated and eager to lea
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23FA0F00.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-<img src="https://user-images.githubusercontent.com/48865614/205351606-78d8deb8-fe93-4b80-a933-ffc714cc9996.png" alt="Alt text" style="width: 8%; height:8%;">
-
-
+![C](https://img.shields.io/badge/C-0078d7.svg?style=for-the-badge)&nbsp;
+![C++](https://img.shields.io/badge/C++-0078d7.svg?style=for-the-badge)&nbsp;
 
 
 #### ML/DL
