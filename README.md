@@ -9,11 +9,13 @@ These are my github stats, always on the rise, always motivated and eager to lea
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html-ED8B00?style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/css-%23FA0F00.svg?style=for-the-badge)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23008080.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23FA0F00.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-0078d7.svg?style=for-the-badge)&nbsp;
 ![C++](https://img.shields.io/badge/C++-0078d7.svg?style=for-the-badge)&nbsp;
-
 
 #### ML/DL
 
@@ -32,6 +34,10 @@ These are my github stats, always on the rise, always motivated and eager to lea
 ![GitHub](https://img.shields.io/badge/GIThub-E44C30?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Studio 3T](https://img.shields.io/badge/studio3t-%2311AB00.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-FCC624?style=for-the-badge&logo=postman&logoColor=black)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23150458.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-ED8B00?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+
 
 #### IDEs
 
