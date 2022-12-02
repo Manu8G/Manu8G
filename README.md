@@ -7,9 +7,9 @@ These are my github stats, always on the rise, always motivated and eager to lea
 </p>
 
 
-<iframe> 
-[![Manu8G's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manu8g&layout=compact&exclude_repo=dotfiles,manu8g.github.io,ed_pfinal.github.io&title_color=3a6960&icon_color=3a6960&text_color=3a6960&bg_color=efefef&border_color=1f1f1f)](https://github.com/manu8g?tab=repositories)
-</iframe>
+
+[![Manu8G's language stats align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=manu8g&layout=compact&exclude_repo=dotfiles,manu8g.github.io,ed_pfinal.github.io&title_color=3a6960&icon_color=3a6960&text_color=3a6960&bg_color=efefef&border_color=1f1f1f)](https://github.com/manu8g?tab=repositories)
+
 
 
 <p align="center">
