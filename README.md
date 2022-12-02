@@ -10,9 +10,8 @@ These are my github stats, always on the rise, always motivated and eager to lea
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-%23008080.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23FA0F00.svg?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![C++](https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)&nbsp;
+![C++](![image](https://user-images.githubusercontent.com/48865614/205351606-78d8deb8-fe93-4b80-a933-ffc714cc9996.png))&nbsp;
 
 
 #### ML/DL
